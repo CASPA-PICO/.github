@@ -7,6 +7,7 @@
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Server"><b>Serveur</b></a> : Programme du serveur (site et API)</li>
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Gateway"><b>Gateway</b></a> : Programme permettant de faire passerelle entre le site et Grafana</li>
 </ul>
-
+<h2>Schéma du système complet</h2>
+<img src="https://i.ibb.co/4YJ9myH/image.png" alt="image" border="0">
 <h2>Guide de déploiement</h2>
 <h4>Bientôt disponible...</h4>
