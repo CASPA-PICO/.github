@@ -1,5 +1,6 @@
 <h1>CASPA-PICO</h1>
 <h4>Cette organisation regroupe tous les codes utilisés pour le fonctionnement de la base et du capteur CASPA-PICO ainsi que le PCB et le socle 3D</h4>
+<img src="https://raw.githubusercontent.com/CASPA-PICO/.github/main/images/banner.jpg"></img>
 <h2>Programmes utilisés</h2>
 <ul>
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Capteur_OS"><b>Capteur OS</b></a> : Programme du microcontrôleur du capteur </li>
