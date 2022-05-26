@@ -13,6 +13,13 @@
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-PCB"><b>PCB</b></a> : Fichiers KiCad du PCB du socle</li>
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Socle"><b>Socle 3D</b></a> : Fichiers FreeCAD du socle 3D</li>
 </ul>
+<h2>Autres</h2>
+<ul>
+  <li><a href="https://github.com/CASPA-PICO/Website"><b>Site web statique</b></a> : Modèle du site web en version statique (utilisé lors du développement front-end)</li>
+  <li><a href="https://github.com/CASPA-PICO/BluetoothDataTransmission"><b>Prototype de transmission Bluetooth</b></a> : tests préliminaires de transmission de données en Bluetooth</li>
+  <li><a href="https://github.com/CASPA-PICO/MicroSD-reader"><b>Prototype de lecture de la carte micro SD</b></a> : tests préliminaires de lecture/écriture de fichiers/dossiers sur une carte micro SD</li>
+  <li><a href="https://github.com/CASPA-PICO/Base-Wifi"><b>Prototype d'implémentation WiFi</b></a> : tests préliminaires d'implémentation du WiFi sur microcontrôleur</li>
+</ul>
 <h2>Schéma du système complet</h2>
 <img src="https://i.ibb.co/4YJ9myH/image.png" alt="image" border="0">
 <h2>Guide de déploiement</h2>
