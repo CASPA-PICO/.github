@@ -4,6 +4,7 @@
 <ul>
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Capteur_OS"><b>Capteur OS</b></a> : Programme du microcontrôleur du capteur </li>
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Base_OS"><b>Base OS</b></a> : Programme du microcontrôleur de la base</li>
+  <li><a href="https://github.com/CASPA-PICO/PLTP"><b>PLTP</b></a> : Bibliothèque de transmission de données en Bluetooth</li>
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Server"><b>Serveur</b></a> : Programme du serveur web (site et API)</li>
   <li><a href="https://github.com/CASPA-PICO/CASPA-PICO-Gateway"><b>Gateway</b></a> : Programme permettant de faire passerelle entre le site et Grafana</li>
 </ul>
