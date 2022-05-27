@@ -23,6 +23,8 @@
 </ul>
 <h2>Schéma du système complet</h2>
 <img src="https://i.ibb.co/4YJ9myH/image.png" alt="image" border="0">
+<h2>Guide d'utilisation</h2>
+<p>Une fois le serveur déployé (voir ci-dessous) et la base prête à être utilisée, n'hésitez pas à lire le <a href="https://github.com/CASPA-PICO/.github/blob/main/docs/Guide%20d'utilisation.pdf"><b>guide d'utilisation</b></a> qui vous aidera à utiliser la base.</p>
 <h2>Guide de déploiement du serveur</h2>
 <h3>Prérequis</h3>
 <ul>
