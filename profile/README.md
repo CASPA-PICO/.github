@@ -55,3 +55,7 @@ Copier le token affiché en résultat de la commande (ex : nWvU8HlvK-yarKBI_R30Q
     <li><b>signout_redirect_url</b> = /</li>
   </ul>
 </p>
+<h3>Configuration du serveur CASPA-PICO</h3>
+<p>Voir le <a href="https://github.com/CASPA-PICO/CASPA-PICO-Server#configuration-du-serveur"><b>Readme</b></a> du serveur</p>
+<h3>Configuration de la Gateway</h3>
+<p>Voir le <a href="https://github.com/CASPA-PICO/CASPA-PICO-Gateway#configuration-du-programme"><b>Readme</b></a> de la Gateway</p>
